@@ -11,9 +11,19 @@ Welcome to the KFC Landing Page project! This is a simple landing page designed 
 
 ## Demo
 
-Check out the live demo of the KFC Landing Page [here](https://ai-rupak.github.io/KFC-Landing-page.github.io/).
+<div align="center">
+  
+  <img src="./readme-images/logo.png" />
 
-![KFC Landing Page](#insert-screenshot-link)
+  <h2 align="center">KFC</h2>
+
+  This website is fully responsive KFC-Landing-page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+
+  <a href="https://ai-rupak.github.io/KFC-Landing-page.github.io/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br />
 
 ## Features
 
