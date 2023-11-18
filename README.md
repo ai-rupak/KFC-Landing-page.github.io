@@ -13,7 +13,7 @@ Welcome to the KFC Landing Page project! This is a simple landing page designed 
 
 <div align="center">
   
-  <img src="./readme-images/logo.png" />
+  <img src="./images/readme-images/logo.png" />
 
   <h2 align="center">KFC</h2>
 
