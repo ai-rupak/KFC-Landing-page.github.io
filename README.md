@@ -2,13 +2,6 @@
 
 Welcome to the KFC Landing Page project! This is a simple landing page designed using HTML and CSS to replicate the appearance of KFC's website.
 
-## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Demo
 
 <div align="center">
