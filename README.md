@@ -17,7 +17,7 @@ Welcome to the KFC Landing Page project! This is a simple landing page designed 
 </div>
 
 <br />
-### Demo Screeshots
+## Demo Screeshots
 
 ![KFC-Landing-Page Desktop Demo](images/readme-images/desktop-example.png )
 
